@@ -35,5 +35,5 @@ Add the following to your `pubspec.yaml`:
 dependencies:
   blutter:
     git:
-      url: https://github.com/sezos/blutter.git
+      url: https://github.com/Sezos/blutter.git
 ```
